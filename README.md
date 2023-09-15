@@ -18,14 +18,10 @@ git clone https://github.com/lucpro362/my-ecommerce-test.git
 
 Di chuyển vào thư mục dự án:cd ecommerce
 Cài đặt các gói phụ thuộc bằng lệnh sau: npm install
+chạy lệnh sau để bắt đầu JSON Server trên cổng 3001:: json-server --watch db.json --port 3001
 
 ### Các bước sử dụng
 Khởi Động Dự Án: npm start
-
-Sau khi đã cài đặt các gói phụ thuộc, bạn có thể khởi động dự án bằng lệnh sau:
-Copy code
-npm start
-Dự án sẽ được chạy ở chế độ phát triển và sẽ mở trình duyệt mặc định của bạn tới địa chỉ http://localhost:3000. Bất kỳ thay đổi nào bạn thực hiện trong mã nguồn cũng sẽ tự động cập nhật trên trình duyệt.
 
 Các Gói npm Sử Dụng
 Dự án này sử dụng một số gói npm quan trọng bao gồm:
@@ -37,7 +33,6 @@ react-bootstrap: Sử dụng các thành phần giao diện người dùng đã 
 react-router-dom: Sử dụng để thực hiện định tuyến trong ứng dụng React.
 redux: Sử dụng để quản lý trạng thái ứng dụng.
 recharts: Sử dụng để tạo biểu đồ và đồ thị tương tác.
-yup: Sử dụng để xác thực dữ liệu biểu mẫu.
 
 Cảm Ơn
 Xin cảm ơn bạn đã quan tâm và đóng góp vào dự án của chúng tôi!
