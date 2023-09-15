@@ -14,7 +14,7 @@ Trước khi bạn bắt đầu, hãy chắc chắn rằng bạn đã cài đặ
 1. Sao chép dự án về máy tính của bạn bằng lệnh sau:
 
 ```bash
-git clone https://github.com/your-username/ecommerce.git
+git clone https://github.com/lucpro362/my-ecommerce-test.git
 
 Di chuyển vào thư mục dự án:cd ecommerce
 Cài đặt các gói phụ thuộc bằng lệnh sau: npm install
