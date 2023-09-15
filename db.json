@@ -1,0 +1,711 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "newuser",
+      "email": "newpass123@gmail.com",
+      "password": "Qaz123@@",
+      "role": "customer"
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 3
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 4
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 5
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 6
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 7
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 8
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 9
+    },
+    {
+      "email": "tranluc2@gmail.com",
+      "password": "Qaz123@@",
+      "id": 10
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 11
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 12
+    },
+    {
+      "email": "tranluc1@gmail.com",
+      "password": "Qaz123@@",
+      "id": 13
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 14
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 15
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 16
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 17
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 18
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 19
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 20
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 21
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "tranluc2@gmail.com",
+      "password": "1234567",
+      "role": "customer",
+      "id": 22
+    },
+    {
+      "email": "tranluc1@gmail.com",
+      "password": "Qaz123@@",
+      "id": 23
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 24
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "huucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 25
+    },
+    {
+      "email": "huucam@gmail.com",
+      "password": "1234567",
+      "id": 26
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 27
+    },
+    {
+      "email": "tranluc1@gmail.com",
+      "password": "Qaz123@@",
+      "id": 28
+    },
+    {
+      "email": "tranluc1@gmail.com",
+      "password": "Qaz123@@",
+      "id": 29
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 30
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 31
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 32
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 33
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 34
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 35
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 36
+    },
+    {
+      "username": "huucam",
+      "email": "huucam2@gmail.com",
+      "password": "Qaz123@@",
+      "role": "customer",
+      "id": 37
+    },
+    {
+      "email": "huucam2@gmail.com",
+      "password": "12345678",
+      "id": 38
+    },
+    {
+      "username": "admin3",
+      "email": "huucam@gmail.com",
+      "password": "1234567",
+      "role": "customer",
+      "id": 39
+    },
+    {
+      "username": "admin",
+      "email": "huucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 40
+    },
+    {
+      "username": "admin",
+      "email": "tranluc1@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 41
+    },
+    {
+      "username": "huucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 42
+    },
+    {
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "id": 43
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 44
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 45
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 46
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 47
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 48
+    },
+    {
+      "email": "tranluc@gmail.com",
+      "password": "Qaz123@@",
+      "id": 49
+    },
+    {
+      "username": "admin3",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 50
+    },
+    {
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "id": 51
+    },
+    {
+      "username": "admin",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 52
+    },
+    {
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "id": 53
+    },
+    {
+      "username": "nguyenhuucam",
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 54
+    },
+    {
+      "email": "nguyenhuucam@gmail.com",
+      "password": "12345678",
+      "id": 55
+    },
+    {
+      "username": "nguyenhuucam1",
+      "email": "nguyenhuucam1@gmail.com",
+      "password": "12345678",
+      "role": "customer",
+      "id": 56
+    },
+    {
+      "email": "nguyenhuucam1@gmail.com",
+      "password": "12345678",
+      "id": 57
+    }
+  ],
+  "shopItems": [
+    {
+      "id": 7,
+      "cover": "./images/shops/shops-1.png",
+      "name": "Boot cao",
+      "price": "180000",
+      "discount": "15",
+      "quantity": "100",
+      "description": "Mô tả sản phẩm Boot cao",
+      "sizes": [
+        {
+          "name": "S",
+          "id": 1
+        },
+        {
+          "name": "M",
+          "id": 2
+        },
+        {
+          "name": "L",
+          "id": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "cover": "./images/shops/shops-2.png",
+      "name": "Giày đen đế cao",
+      "price": "120000",
+      "discount": "10",
+      "quantity": "100",
+      "description": "Mô tả sản phẩm Giày đen đế cao",
+      "sizes": [
+        {
+          "name": "S",
+          "id": 1
+        },
+        {
+          "name": "M",
+          "id": 2
+        },
+        {
+          "name": "L",
+          "id": 3
+        }
+      ]
+    }
+  ],
+  "loggedInUser": [],
+  "orders": [
+    {
+      "fullName": "Trần Thế Lực",
+      "address": "Bình Định",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        },
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 1
+    },
+    {
+      "fullName": "Trần Thế Lực",
+      "address": "Bình Định",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        },
+        {
+          "id": 3,
+          "discount": 40,
+          "cover": "./images/flash/flash-3.png",
+          "name": "giày đen đế cao",
+          "price": 400000,
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 2
+    },
+    {
+      "fullName": "",
+      "address": "",
+      "items": [
+        {
+          "id": 2,
+          "discount": 40,
+          "cover": "./images/flash/flash-2.png",
+          "name": "giày nâu",
+          "price": 200000,
+          "qty": 3
+        },
+        {
+          "id": 4,
+          "discount": 40,
+          "cover": "./images/flash/flash-4.png",
+          "name": "giày đen đế lùn",
+          "price": 5000000,
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 4,
+      "id": 3
+    },
+    {
+      "fullName": "Trần Thế Lực",
+      "address": "Phù Cát, Bình Định",
+      "items": [],
+      "totalQuantity": 0,
+      "id": 4
+    },
+    {
+      "fullName": "",
+      "address": "",
+      "items": [],
+      "totalQuantity": 0,
+      "id": 5
+    },
+    {
+      "fullName": "",
+      "address": "",
+      "items": [
+        {
+          "id": 10,
+          "cover": "./images/shops/shops-4.png",
+          "name": "Giày thấp",
+          "price": "199000",
+          "discount": "10 ",
+          "qty": 1
+        },
+        {
+          "id": 11,
+          "cover": "./images/shops/shops-5.png",
+          "name": "Giày đen đế bằng",
+          "price": "180000",
+          "discount": "20 ",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 6
+    },
+    {
+      "fullName": "",
+      "address": "",
+      "items": [
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        },
+        {
+          "id": 9,
+          "cover": "./images/shops/shops-3.png",
+          "name": "Giày đen đế thấp",
+          "price": "200000",
+          "discount": "10 ",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 7
+    },
+    {
+      "fullName": "Trần Thế Lực",
+      "address": "Bình Định",
+      "items": [
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        },
+        {
+          "id": 9,
+          "cover": "./images/shops/shops-3.png",
+          "name": "Giày đen đế thấp",
+          "price": "200000",
+          "discount": "10 ",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 8
+    },
+    {
+      "fullName": "Trần Lực",
+      "address": "Bình Định",
+      "items": [
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        },
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 9
+    },
+    {
+      "fullName": "Trần Thế ",
+      "address": "HN",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        },
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 10
+    },
+    {
+      "fullName": "Nguyễn A",
+      "address": "Nguyễn B",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        },
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 11
+    },
+    {
+      "fullName": "Nguỹen A",
+      "address": "Hoài Nhơn",
+      "items": [
+        {
+          "id": 11,
+          "cover": "./images/shops/shops-5.png",
+          "name": "Giày đen đế bằng",
+          "price": "180000",
+          "discount": "20 ",
+          "qty": 1
+        },
+        {
+          "id": 10,
+          "cover": "./images/shops/shops-4.png",
+          "name": "Giày thấp",
+          "price": "199000",
+          "discount": "10 ",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 12
+    },
+    {
+      "fullName": "Nguyễn Văn A",
+      "address": "Hoài Nhơn",
+      "items": [
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        },
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 13
+    },
+    {
+      "fullName": "Hữu Cầm",
+      "address": "Hà Nội",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 2
+        }
+      ],
+      "totalQuantity": 2,
+      "id": 14
+    },
+    {
+      "fullName": "Hữu Cầm",
+      "address": "Hà Nội",
+      "items": [
+        {
+          "id": 7,
+          "cover": "./images/shops/shops-1.png",
+          "name": "Boot cao",
+          "price": "180000",
+          "discount": "15",
+          "qty": 3
+        },
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 4,
+      "id": 15
+    },
+    {
+      "fullName": "Nguyễn Hữu Cầm",
+      "address": "Hà Nội",
+      "items": [
+        {
+          "id": 8,
+          "cover": "./images/shops/shops-2.png",
+          "name": "Giày đen đế cao",
+          "price": "120000",
+          "discount": "10",
+          "brand": "JUNO",
+          "qty": 1
+        }
+      ],
+      "totalQuantity": 1,
+      "id": 16
+    }
+  ]
+}

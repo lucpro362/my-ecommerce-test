@@ -1,0 +1,168 @@
+.cart-items {
+  background: #f6f9fc;
+  height: auto;
+  padding: 50px 0;
+}
+
+.cart-items .cart-details {
+  width: 70%;
+}
+
+.cart-items .cart-total {
+  width: 30%;
+  margin-top: 30px;
+  margin-left: 30px;
+  height: 180px;
+}
+
+.cart-list {
+  background: white;
+  margin-top: 30px;
+}
+
+.cart-items .img {
+  width: 150px;
+  height: 150px;
+}
+
+.cart-items img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.cart-items .cart-details h2 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.cart-items .cart-details h4 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 50px;
+  color: grey;
+}
+
+.cart-items h4 span {
+  color: #e94560;
+  margin-left: 20px;
+  font-weight: 500;
+}
+
+.removeCart {
+  background: none;
+  font-size: 25px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.cartControl {
+  margin-top: 50px;
+}
+
+.cartControl button {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.incCart {
+  background: none;
+  border: 1px solid rgb(3 0 71 / 9%);
+  color: #e94560;
+}
+
+.desCart {
+  background: #f6f9fc;
+}
+
+.cart-total h4 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.cart-total h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #e94560;
+}
+
+.cart-total h2 {
+  font-size: 18px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgb(3 0 71 / 9%);
+  padding-bottom: 10px;
+  color: #e94560;
+}
+
+.no-items {
+  color: #e94560;
+  font-size: 18px;
+  margin-top: 30px;
+  height: 130px;
+}
+
+.red-button {
+  background-color: #e94560; /* Màu đỏ */
+  color: white; /* Màu chữ trắng */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease; /* Hiệu ứng hover */
+  margin: 0 auto; /* Căn giữa theo chiều ngang */
+  display: block; /* Biến thành khối để áp dụng margin: 0 auto; */
+}
+
+.red-button:hover {
+  background-color: #c93045; /* Màu đỏ đậm khi hover */
+}
+
+.back-to-home-button {
+  background-color: #e94560; /* Màu đỏ */
+  color: white; /* Màu chữ trắng */
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease; /* Hiệu ứng hover */
+  margin-right: 10px; /* Khoảng cách với nút "Thanh toán" */
+}
+
+.back-to-home-button:hover {
+  background-color: #c93045; /* Màu đỏ đậm khi hover */
+}
+
+/* Điều chỉnh kích thước dropdown */
+.size-dropdown .react-select__control {
+  width: 100%;
+}
+
+/* Điều chỉnh font chữ cho dropdown */
+.size-dropdown .react-select__single-value {
+  font-size: 18px;
+  font-weight: 400;
+  color: #333;
+}
+
+/* Điều chỉnh font chữ cho dropdown option */
+.size-dropdown .react-select__option {
+  font-size: 18px;
+  font-weight: 400;
+  color: #333;
+}
+.cart-total.product {
+  text-align: center; /* Căn giữa nội dung tổng tiền */
+  margin-top: 20px; /* Khoảng cách từ tổng tiền đến form */
+}
+
+.cart-total.product h3 {
+  font-size: inherit; /* Kích cỡ chữ tổng tiền bằng với cart-total-product */
+}

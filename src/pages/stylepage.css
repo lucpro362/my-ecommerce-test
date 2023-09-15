@@ -1,0 +1,240 @@
+/* Phần chung cho footer và form container */
+footer, .form-container {
+  background-color: #0f3460;
+  padding: 100px 0 30px; /* Thêm 30px dưới cho footer */
+  color: #fff;
+  text-align: center;
+}
+
+/* Phần chung cho nút "Đặt hàng" và "Hủy đơn" */
+.btn-primary, .btn-secondary {
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+/* Định dạng nút "Đặt hàng" */
+.btn-primary {
+  background-color: #e94560;
+  color: #fff;
+   border: 1px solid #000; /* Viền đen */
+  padding: 15px 30px; /* Kích thước cho nút "Đặt hàng" */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Định dạng nút "Hủy đơn" */
+.btn-secondary {
+  background-color: #fff; /* Nền trắng */
+  color: #00060b; /* Màu chữ xanh */
+  border: 1px solid #000; /* Viền đen */
+  padding: 15px 30px; /* Kích thước cho nút "Hủy đơn" */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Phần chung cho .table th và .table td */
+.table th, .table td {
+  text-align: center; /* Căn giữa nội dung trong các ô */
+  padding: 8px;
+  border: 1px solid #000; /* Viền đen cho tiêu đề và nội dung */
+}
+
+/* Định dạng cột sản phẩm */
+.table th:first-child, .table td:first-child {
+  text-align: left; /* Căn trái nội dung trong cột sản phẩm */
+}
+
+/* Định dạng cột số lượng và tổng tiền */
+.table th:nth-child(2), .table td:nth-child(2),
+.table th:nth-child(3), .table td:nth-child(3) {
+  width: 20%; /* Đặt chiều rộng cho cột số lượng và tổng tiền */
+}
+
+/* Định dạng trạng thái "Chưa thanh toán" */
+.order-status.chưa {
+  color: #e94560; /* Màu đỏ */
+}
+
+/* Định dạng trạng thái "Đã thanh toán" */
+.order-status.đã {
+  color: #007bff; /* Màu xanh da trời */
+}
+
+/* Phần chung cho card-body */
+.card-body {
+  width: 100%; /* Độ rộng tối đa cho card-body */
+  margin: 0 auto; /* Căn giữa card-body */
+  padding: 10px; /* Khoảng cách giữa các dòng chữ trong card-body */
+}
+
+/* Định dạng bảng bao quanh form */
+.order-table {
+  border: 1px solid #000; /* Viền đen bao quanh bảng */
+  border-collapse: collapse; /* Loại bỏ khoảng cách giữa các ô */
+  width: 200%; /* Rộng gấp đôi so với chiều rộng của parent */
+  margin: 20px -50px; /* Khoảng cách ở trên và dưới của bảng */
+}
+/* Phần chung cho footer và form container */
+footer, .form-container {
+  background-color: #0f3460;
+  padding: 100px 0 30px; /* Thêm 30px dưới cho footer */
+  color: #fff;
+  text-align: center;
+}
+
+
+/* Phần chung cho .table th và .table td */
+.table th, .table td {
+  text-align: center; /* Căn giữa nội dung trong các ô */
+  padding: 8px;
+  border: 1px solid #000; /* Viền đen cho tiêu đề và nội dung */
+}
+
+/* Định dạng cột sản phẩm */
+.table th:first-child, .table td:first-child {
+  text-align: left; /* Căn trái nội dung trong cột sản phẩm */
+}
+
+/* Định dạng cột số lượng và tổng tiền */
+.table th:nth-child(2), .table td:nth-child(2),
+.table th:nth-child(3), .table td:nth-child(3) {
+  width: 20%; /* Đặt chiều rộng cho cột số lượng và tổng tiền */
+}
+
+/* Định dạng trạng thái "Chưa thanh toán" */
+.order-status.chưa {
+  color: #e94560; /* Màu đỏ */
+}
+
+/* Định dạng trạng thái "Đã thanh toán" */
+.order-status.đã {
+  color: #007bff; /* Màu xanh da trời */
+}
+
+/* Phần chung cho card-body */
+.card-body {
+  width: 100%; /* Độ rộng tối đa cho card-body */
+  margin: 0 auto; /* Căn giữa card-body */
+  padding: 10px; /* Khoảng cách giữa các dòng chữ trong card-body */
+}
+
+/* Định dạng bảng bao quanh form */
+.order-table {
+  border: 1px solid #000; /* Viền đen bao quanh bảng */
+  border-collapse: collapse; /* Loại bỏ khoảng cách giữa các ô */
+  width: 200%; /* Rộng gấp đôi so với chiều rộng của parent */
+  margin: 20px -50px; /* Khoảng cách ở trên và dưới của bảng */
+}
+footer {
+  background-color: #0f3460;
+  padding: 100px 0;
+  color: #fff;
+  text-align: center;
+}
+
+footer h1 {
+  margin-bottom: 30px;
+  color: #e94560;
+  font-weight: 800;
+  font-style: italic;
+  text-align: center
+}
+
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+
+footer .img span {
+  margin-top: 5px;
+}
+
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+
+footer h2 {
+  margin-bottom: 20px;
+}
+
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
+/* Register.css */
+.register-page {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+/* Login.css */
+.login-page {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.form-container {
+border: 1px solid #ccc;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+form label {
+font-weight: bold;
+}
+form input {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 3px;
+}
+.btn-primary {
+background-color: #e94560;
+color: #fff;
+/* Các thuộc tính khác cho nút "Thanh toán" */
+}
+
+
+.container-fluid-center {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.text-danger {
+color: #FF5733;
+margin-top: 1px; 
+font-size: 12px; 
+}
+.text-center {
+text-align: center}
+.register-button {
+text-align: center;
+margin-top: 15px;
+}
+.register-button .btn-primary {
+margin: 0 auto;
+display: block;
+}
+.form-control {
+  width: 100%; /* Rộng 100% cho ô input */
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  color: #000810; /* Màu chữ xanh */
+}
+
